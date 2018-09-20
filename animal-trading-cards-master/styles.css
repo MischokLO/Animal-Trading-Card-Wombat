@@ -1,0 +1,28 @@
+.card {
+  border: 1px solid #cccccc;
+  box-shadow: 5px 5px #dddddd;
+  max-height: 505px;
+  max-width: 300px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  padding: 0 16px 16px 16px;
+  overflow: auto;
+}
+.description {
+  border: inherit;
+  padding: 0.5rem;
+  height: 100%;
+}
+
+.Fact {
+  font-style: italic;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+.ListItem {
+  font-weight: bold;
+}
